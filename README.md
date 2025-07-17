@@ -69,9 +69,3 @@ This project showcases a real-time data pipeline that streams Amazon sales data 
 
 ---
 
-## 💡 **Contributions & Support**
-Feel free to contribute, suggest improvements, or raise issues!  
-📧 Contact: **kolusuvandana13@gmail.com**
-
----
-
